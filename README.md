@@ -2,15 +2,15 @@
 
 <h1 align="center" style="font-size: 100; margin: 0; text-decoration: none; font-weight: bold;">Hallo 👋</h1>
 
-### 💫 About me :
+### 🐧 **About me**:
 
 ```js
-const FelipeGarces = {
+const FelipeGarcés = {
   hi: "Hi 😄, I'm Felipe Garcés",
 
-  e: 'Enthusiastic Programmer 🤖',
-  langs: ['Español'], ['English'] ,
-  knowledge: ['Dart', 'Flutter', 'Firebase', 'Figma', 'MySql', 'Adobe XD', 'Adobe Illustrator'],
+  e: "Enthusiastic Programmer 🤖",
+  langs: ['Español', 'English'], 
+  knowledge: ['Dart', 'Flutter', 'Firebase', 'Figma', 'MySQL', 'Adobe XD', 'Adobe Illustrator'], 
 };
 
 console.log(felipegarces.hi);
@@ -19,6 +19,6 @@ console.log(felipegarces.hi);
 ---------------
 
 > [!NOTE]
-> You can contact me trow my social media 😁.
+> You can contact me through my social media 😁.
 
 ---------------

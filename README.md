@@ -1,4 +1,4 @@
-<img align="right" width="73" height="73" src="https://emojis.slackmojis.com/emojis/images/1643514738/7421/typingcat.gif?1643514738" />
+<img align="right" width="60" height="60" src="https://emojis.slackmojis.com/emojis/images/1643514738/7421/typingcat.gif?1643514738" />
 
 <h1 align="center" style="font-size: 100; margin: 0; text-decoration: none; font-weight: bold;">Hallo 👋</h1>
 
